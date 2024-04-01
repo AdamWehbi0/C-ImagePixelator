@@ -1,1 +1,3 @@
 # C-ImagePixelator
+
+This C++ project uses a 3D array to manipulate image pixels across width, height, and RGB color channels. It demonstrates creating solid color images, blending colors to showcase color theory, and applying effects like fading through simple arithmetic on pixel data. Key C++ concepts highlighted include dynamic memory management for handling the 3D pixel array, object-oriented programming to encapsulate image processing in a class, and operator overloading for intuitive image blending. This approach offers a hands-on way to learn C++ programming while exploring digital image creation and modification, making it an accessible project for understanding both programming and basic image manipulation.
